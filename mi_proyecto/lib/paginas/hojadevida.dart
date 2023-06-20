@@ -38,12 +38,12 @@ class _HojaDeVidaState extends State<HojaDeVida> {
         ),
         SizedBox(height: 10),
         Text(
-          'Nombre;Maria Florangela Arias Peña',
+          'Nombre: Maria Florangela Arias Peña',
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
         ),
         SizedBox(height: 10),
         Text(
-          'Edad; 23 años',
+          'Edad: 23 años',
           style: TextStyle(fontSize: 16),
         ),
         SizedBox(height: 10),
@@ -52,7 +52,7 @@ class _HojaDeVidaState extends State<HojaDeVida> {
           style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
         ),
         Text(
-          'Me considero una persona responsable y humilde con las capacidades necesarias para realizar mi trabajo, con la mejor disposición dentro de mi ámbito laboral.',
+          'tencnico en seguridad ocupacional actual mete me encuentro  culminando los estudios en gestion de redes y sistemas teleinformaticos  en el centro educativo rudal iser pamplona.\n Me considero una persona responsable y humilde con las capacidades necesarias para realizar mi trabajo ya sea el que prectique , con la mejor disposición dentro de mi ámbito laboral.',
           style: TextStyle(fontSize: 16),
         ),
       ],
@@ -77,7 +77,7 @@ class _HojaDeVidaState extends State<HojaDeVida> {
         title: const Row(
           mainAxisAlignment: MainAxisAlignment.end,
           children: [
-            Text('Hoja de Vida'),
+            Text('Maria florangela arias peña'),
             SizedBox(width: 10),
             CircleAvatar(
               // Agrega aquí la imagen de perfil
